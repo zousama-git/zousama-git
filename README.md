@@ -1,15 +1,13 @@
 # Hi, there 👋 
 
-
-
 I’m an **aspiring software developer** passionate about **data analysis and software development**. 
 
 ## 🚀 About Me
 
-- 💻 Learning **Java, Pascal, and Python**
-- 📊 Working toward a career in **Data Analysis & Software Development**
-- 🧠 Always curious and learning new technologies
-- 🔥 A bit naïve, but stubborn enough to prove people wrong when they say I can't do something
+- Learning **Java, Pascal, and Python**
+- Working toward a career in **Data Analysis & Software Development**
+- Always curious and learning new technologies
+- A bit naïve, but stubborn enough to prove people wrong when they say I can't do something
 
 ---
 
