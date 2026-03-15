@@ -1,6 +1,6 @@
 # Hi, there 👋 
 
-I’m an **aspiring software developer** passionate about **data analysis and software development**. 
+All there is to know about me at this moment is that I’m an **aspiring software developer** passionate about **data analysis and software development**. Still leaning but one day I will be some majestic! 
 
 ## 🚀 About Me
 
