@@ -8,7 +8,6 @@ I am Vezinduna Mbekezeli Ndlovu, an early-stage developer building a foundation 
 - Fundamental data analysis concepts, including data handling, basic processing pipelines, and result interpretation
 - Problem-solving through console-based applications and structured exercises
 - Building disciplined development practices: incremental commits, debugging workflows, and readable code
-
 ---
 
 ## Current Work
