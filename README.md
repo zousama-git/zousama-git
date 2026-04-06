@@ -1,22 +1,33 @@
-# Hi, there 👋 
-
-All there is to know about me at this moment is that I’m an **aspiring software developer** passionate about **data analysis and software development**. Still leaning but one day I will be some majestic! 
-
-## 🚀 About Me
-
-- Learning **Java, Pascal, and Python**
-- Working toward a career in **Data Analysis & Software Development**
-- Always curious and learning new technologies
-- A bit naïve, but stubborn enough to prove people wrong when they say I can't do something
+## Profile
+I am Vezinduna Mbekezeli Ndlovu, an early-stage developer building a foundation in software development and data analysis. My work is structured around consistent self-study and the regular production of small, functional programs (primarily in Java) with the aim of developing reliable habits before expanding into more complex problems.
 
 ---
 
-## 🎯 Current Goals
-- currently working on starter projects a minimum of 1 per month
-- learn more on Java, Python, pascal and Data Analysis 
-- looking to collaborate on group projects at least 1 per 3 months
-- Improve my **software development skills**
+## Technical Focus
+- Core programming in Java, with emphasis on object-oriented principles and structured code organisation
+- Fundamental data analysis concepts, including data handling, basic processing pipelines, and result interpretation
+- Problem-solving through console-based applications and structured exercises
+- Building disciplined development practices: incremental commits, debugging workflows, and readable code
 
-> *“Some people say you can’t do something. I just take that as motivation to prove them wrong.”*
+---
 
-> *Also known as **VM Ndlovu***
+## Current Work
+I maintain a regular output of small projects designed to reinforce core programming concepts rather than demonstrate advanced specialisation. Current work includes:
+- Console-based Java applications
+- Introductory data processing
+- Structured exercises and self-assessments
+
+---
+
+## Learning Path
+- Deepening Java proficiency toward intermediate topics, including exception handling, interfaces, and basic design patterns
+- Progressing from isolated data exercises toward complete analysis workflows: loading, cleaning, transforming, and summarising data
+- Improving version control discipline by transitioning all project work to Git-tracked repositories with meaningful commit history
+
+---
+
+## Collaboration Goals
+I am interested in contributing to clearly scoped, beginner-accessible projects where I can apply my current Java skills and learn from structured team environments. Specifically, I am looking to:
+- Contribute to well-documented open source projects with defined good-first-issue tasks
+- Participate in code reviews to develop the ability to read and reason about others' code
+- Work within shared project structures that emphasise clear communication and incremental progress
